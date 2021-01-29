@@ -19,6 +19,8 @@ We have to procure Azure L4 LB - UDP  or AWS NLB UDP  for setting up endpoints f
 
 Rest Coap Proxy <--> Coap Server <--> In-house devices 
 
+In lay Man's terms. CoAP can be thought of HTTP over UDP.
+
 ![CoAP.JPG](CoAP.JPG)
 
 
