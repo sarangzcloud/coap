@@ -15,6 +15,9 @@ MQTT uses a publisher-subscriber while CoAP uses a request-response paradigm.
 CoAP is essentially a one-to-one protocol very similar to the HTTP protocol. Moreover, MQTT is an event-oriented protocol while CoAP is more suitable for state transfer.
 
 
+
+Rest Coap Proxy <--> Coap Server <--> In-house devices 
+
 ![CoAP.JPG](CoAP.JPG)
 
 
