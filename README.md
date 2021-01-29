@@ -15,6 +15,7 @@ MQTT uses a publisher-subscriber while CoAP uses a request-response paradigm.
 CoAP is essentially a one-to-one protocol very similar to the HTTP protocol. Moreover, MQTT is an event-oriented protocol while CoAP is more suitable for state transfer.
 
 
+We have to procure Azure L4 LB - UDP  or AWS NLB UDP  for setting up endpoints for CoAP setup.
 
 Rest Coap Proxy <--> Coap Server <--> In-house devices 
 
