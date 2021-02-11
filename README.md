@@ -34,3 +34,8 @@ https://dzone.com/articles/coap-protocol-step-by-step-guide
 https://www.youtube.com/watch?v=-mG_HjAPji0
 
 https://www.youtube.com/watch?v=U0XlAqFT34s
+
+
+
+Amazing read 
+https://www.onlogic.com/company/io-hub/connecting-the-iot-mqtt-coap-protocols/
